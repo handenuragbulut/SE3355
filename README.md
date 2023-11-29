@@ -1,5 +1,5 @@
 # SE3355
-I used github to distribute my project
+I used github to distribute my midterm project
 The basic content of the website is located in the index.html file.
 Javascript, CSS, and HTML files are included in the project.
 I used the mocky.io website to develop the API. There are ten city and ten course type.
